@@ -20,7 +20,7 @@ export const Signup = () => {
                 <input type="password" name="passwordagain" id="passwordagain" className="form-control" placeholder="Confirm Password" />
             </div>
             <div className="form-group">
-                <input type="submit" value="Signup" className="btn btn-primary w-100" />
+                <input type="submit" value="Signup" className="btn btn-primary w-100 shadow-none" />
             </div>
             <div className="form-group">
                 <div className="row">
