@@ -22,7 +22,7 @@ export const Login = () => {
                     <div className="col">
                         <Link to={"./signup"}>Don't have account ?</Link>
                     </div>
-                    <div className="col">
+                    <div className="col lefts">
                         <Link to={"./reset_password"}>Forgot password ?</Link>
                     </div>
                 </div>

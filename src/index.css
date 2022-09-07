@@ -23,6 +23,7 @@ body {
 }
 .form-control{
   font-size: 18px;
+  border-radius: 3px !important;
 }
 .form-control,.btn{
   height: 50px;
@@ -41,4 +42,7 @@ body {
 }
 .form-group a:hover{
   color: #f7a206;   
+}
+.lefts{
+  text-align: right;
 }
