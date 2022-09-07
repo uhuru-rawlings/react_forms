@@ -17,7 +17,7 @@ export const Reset = () => {
                 <input type="password" name="passwordagain" id="passwordagain" className="form-control" placeholder="Confirm Password" />
             </div>
             <div className="form-group">
-                <input type="submit" value="Login" className="btn btn-primary w-100" />
+                <input type="submit" value="Reset Password" className="btn btn-primary w-100" />
             </div>
             <div className="form-group">
                 <div className="row">
