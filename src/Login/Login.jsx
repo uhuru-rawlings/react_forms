@@ -7,7 +7,7 @@ export const Login = () => {
     <div className='user_authentication'>
         <form action="" method="post" autoComplete='off'>
             <h2 className='text-center'>Login Form</h2>
-            <p className='text-center'>Please fill the for and let's get you loged in</p>
+            <p className='text-center'>Please fill the form and let's get you loged in</p>
             <div className="form-group">
                 <input type="email" name="useremail" id="useremail" className="form-control" placeholder="Email" />
             </div>
