@@ -29,7 +29,7 @@ body {
   height: 50px;
 }
 .btn{
-  box-shadow: 3px 3px 6px #b1b1b1;
+  box-shadow: 3px 3px 6px #818080;
   font-size: 20px !important;
 }
 .terms{
@@ -45,4 +45,12 @@ body {
 }
 .lefts{
   text-align: right;
+}
+
+
+
+@media screen and (max-width: 920px){
+  .user_authentication form{
+    width: 80%;
+  }
 }
